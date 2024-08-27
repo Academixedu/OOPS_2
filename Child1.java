@@ -1,5 +1,4 @@
 public class Child1 extends Parent{
-// Prepare Some Function and extend to Parent Class
     public void details1(String name2,int id2){
         System.out.println("Name is: "+name2);
         System.out.println("Id is: "+id2);

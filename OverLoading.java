@@ -1,5 +1,4 @@
 public class OverLoading{
-// Prepare an Example to show OverLoading Concept
     public int add(int a,int b){
         return a+b;
     }
