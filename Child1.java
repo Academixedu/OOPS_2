@@ -1,4 +1,4 @@
-public class Child1{
+public class Child1 extends Child{
 // Prepare Some Function and extend to Parent Class
 
 public static void Vehicle(String name){
