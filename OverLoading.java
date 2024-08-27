@@ -13,6 +13,7 @@ public class OverLoading{
         v.load();
         v.load(12);
         v.load("arbaz", 25);
+
+}
+}
 // Prepare an Example to show OverLoading Concept
-}
-}
